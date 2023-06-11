@@ -1,7 +1,6 @@
 # chatgpt-cheatsheet
 cheatsheet for  chatgpt prompting for your reference ,
-welcome to contribute.
-
+and welcome to contribute.
 ## Role
 ### 1. Act as a Linux Terminal
 
