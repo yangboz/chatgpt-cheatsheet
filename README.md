@@ -24,10 +24,26 @@ and welcome to contribute.
 
 ## Prompts for Designers
 
+### 1. Generate examples of Ul design requirements for a [mobileappl.
+### 2.How can I design a [law firm website] in a way that conveystrust and authority]?
+### 3. What are some micro-interactions to consider when designing aFintech app?
+### 4.Create a text-based Excel sheet to input your copy suggestionsAssume you have 3 members in your UX writing team.
+
 ## Prompts for Developers
 
-## Prompts for Marketers
+### 1. Develop an architecture and code for a <description>website with ]avaScript
+### 2. Help me find mistakes in the following code <pastecode below>
+### 3.1 want to implement a sticky header on my websiteCan you provide an example using CSS and JavaScript?
+### 4. Please continue writing this code for JavaScript<past code below>
 
+## Prompts for Marketers
+  
+### 1. Can you provide me with some ideas for blog posts about[topic]?
+### 2. Write a product description for my [product or service orcompanyl.
+### 3. Suggest inexpensive ways I can promote my [company]without using social media?
+### 4. How can l obtain high-quality backlinks to improve the SEOof [wesite name]?
+
+ 
 ## C.R.E.A.T.E Formula for Prompt Engineering
 
 C: Character - Define the Al's role. E.g, "You are a seasoned copywriter with 20 years of experience in successful sales copy.2. R: Request - Be specific with what you need. Instead of "Write a sales email for a sports car", specify,"Write a compelling
