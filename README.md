@@ -25,7 +25,7 @@ and welcome to contribute.
 ## example  Prompts for Designers
 
 ### 1. Generate examples of Ul design requirements for a [mobileappl.
-### 2.How can I design a [law firm website] in a way that conveystrust and authority]?
+### 2.How can I design a [law firm website] in a way that conveys trust and authority]?
 ### 3. What are some micro-interactions to consider when designing aFintech app?
 ### 4.Create a text-based Excel sheet to input your copy suggestionsAssume you have 3 members in your UX writing team.
 
