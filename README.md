@@ -1,7 +1,7 @@
 # chatgpt-cheatsheet
 cheatsheet for  chatgpt prompting for your reference ,
 and welcome to contribute.
-## Role
+## example Roles
 ### 1. Act as a Linux Terminal
 
 ### 2. Act as "position" Interviewer
@@ -22,21 +22,21 @@ and welcome to contribute.
 
 ### 10.Act as Marketer
 
-## Prompts for Designers
+## example  Prompts for Designers
 
 ### 1. Generate examples of Ul design requirements for a [mobileappl.
 ### 2.How can I design a [law firm website] in a way that conveystrust and authority]?
 ### 3. What are some micro-interactions to consider when designing aFintech app?
 ### 4.Create a text-based Excel sheet to input your copy suggestionsAssume you have 3 members in your UX writing team.
 
-## Prompts for Developers
+## example  Prompts for Developers
 
 ### 1. Develop an architecture and code for a <description>website with ]avaScript
 ### 2. Help me find mistakes in the following code <pastecode below>
 ### 3.1 want to implement a sticky header on my websiteCan you provide an example using CSS and JavaScript?
 ### 4. Please continue writing this code for JavaScript<past code below>
 
-## Prompts for Marketers
+## example Prompts for Marketers
   
 ### 1. Can you provide me with some ideas for blog posts about[topic]?
 ### 2. Write a product description for my [product or service orcompanyl.
